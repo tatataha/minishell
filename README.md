@@ -14,7 +14,7 @@ Clone project
 Go to project folder
 
 ```bash
-  cd my-project
+  cd minishell
 ```
 
 Run Makefile
